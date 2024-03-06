@@ -25,6 +25,10 @@ This project showcases a two-wheel drive Arduino remote-controlled car designed 
 
 ### **2D/3D-View of the Car:**
 
-![Car Base](BASE.png) ![Upper View](UPPER.png)
+![Car Base](BASE.png) ![Upper View](UPPER.png) ![Full Body Assembly](Full.png)
 
-![Full Body Assembly](Full.png)
+
+    THE REASON WHY IT IS CALLED PACMAN CAUSE IT LOOKS LIKE PACMAN.
+
+
+
